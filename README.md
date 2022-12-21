@@ -12,11 +12,11 @@ Para la funcionalidad de este se tendra que crear un nuevo proyecto desde androi
 
 ## Archivos a destacar
 
-Los archivos qué son más importantes de est app son las carpetas lib; ya que dentro de esta hay archivos tipo .dart, el lenguaje de código de flutter, los archivos estan clasificados por carpetas dependiendo de que se usa, los únicos que no, son los archivos de firebase options (generado automáticamente después de hacer la configuración de firebase), main.dart que es el primer archivo que se ejecuta cuando corremos el código y las constantes; estos son valores definidos anteriormente para que cuando al usarlo en las carpetas de las pantallas se usen los valores escrito aquí y no tener que volver a poner lo mismo (Reutilización de código). Pubspec; En este archivo tendremos todos los paquetes descargados, es decir, los paquetes que se descargaron para la funcionalidad de la app, como los iconos, el navbar, etc.
+Los archivos qué son más importantes de esta app son las carpetas lib; ya que dentro de esta hay archivos tipo .dart, el lenguaje de código de flutter, los archivos estan clasificados por carpetas dependiendo de que se usa, los únicos que no, son los archivos de firebase options (generado automáticamente después de hacer la configuración de firebase), main.dart que es el primer archivo que se ejecuta cuando corremos el código y las constantes; estos son valores definidos anteriormente para que cuando al usarlo en las carpetas de las pantallas se usen los valores escrito aquí y no tener que volver a poner lo mismo (Reutilización de código). Pubspec; En este archivo tendremos todos los paquetes descargados, es decir, los paquetes que se descargaron para la funcionalidad de la app, como los iconos, el navbar, etc.
 
 ## ¿En dónde correrlo?
 
-Preferiblemente el código deberia ser corrido desde visual studio code ya que se hizo desde ahí el código (Este se crea en android studio ya que al crearlo desde hay genera unas opciones que se necesitan para el firebase, cuando se crea desde visula, falta esas opciones, entonces lo recomendad es crear la app desde Android y después usar visual).
+Preferiblemente el código deberia ser corrido desde visual studio code ya que se hizo desde ahí el código (Este se crea en android studio ya que al crearlo desde hay genera unas opciones que se necesitan para el firebase, cuando se crea desde visual, falta esas opciones, entonces lo recomendado es crear la app desde Android y después usar visual).
 
 ## Trabajo realizado por Ivonne Ximena Ortiz López & Andrés Felipe Barrera Cuevas.
 Ficha 2558346.
