@@ -19,6 +19,6 @@ Los archivos qué son más importantes de est app son las carpetas lib; ya que d
 Preferiblemente el código deberia ser corrido desde visual studio code ya que se hizo desde ahí el código (Este se crea en android studio ya que al crearlo desde hay genera unas opciones que se necesitan para el firebase, cuando se crea desde visula, falta esas opciones, entonces lo recomendad es crear la app desde Android y después usar visual).
 
 ## Trabjo realizado por Ivvone Ximena Ortiz López & Andrés Felipe Barrera Cuevas.
- Ficha 2558346.
- Centro de Biotecnología Agropecuaría de Mosquera - Sena.
- Intructor Jorge Castro.
+Ficha 2558346.
+Centro de Biotecnología Agropecuaría de Mosquera - Sena.
+Intructor Jorge Castro.
