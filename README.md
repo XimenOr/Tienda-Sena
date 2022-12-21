@@ -8,7 +8,7 @@ En esta versión solo se implementó el carrito de compras, ya que en la primera
 
 ## Funcionalidad
 
-Para la funcionalidad de este se tendra que crear un nuevo proyecto desde android studio, una vez creado esto, se debe conectar a firebase, una vez ya conectado a firebase, se podran descargar los archivos del Git, una vez descargados, se pegan a nivel de las carpetas de lib, test, pubspec para que se realize el cambio, se reempalaza todo y nos botara un error en el archivos pubspec, lo único que hacemos es cambiarle el nombre al que originalmente le habiamos puesto.
+Para la funcionalidad de este se tendra que crear un nuevo proyecto desde android studio, una vez creado esto, se debe conectar a firebase, una vez ya conectado a firebase, se podran descargar los archivos del Git, una vez descargados, se extrae y se pegan a nivel de las carpetas de lib, test, pubspec para que se realize el cambio, se reempalaza todo y nos botara un error en el archivos pubspec, lo único que hacemos es cambiarle el nombre al que originalmente le habiamos puesto.
 
 ## Archivos a destacar
 
